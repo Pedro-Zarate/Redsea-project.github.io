@@ -1,0 +1,238 @@
+
+
+body {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    padding: 0px;
+    margin: 0;
+
+}
+
+header{
+    padding-top: 50px;
+    height: 200px;
+    min-width: 100%;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+h1 {
+    font-weight: 700;
+
+}
+
+header p {
+    font-weight: 300;
+}
+
+
+.bold{
+    font-weight: 700;
+}
+
+/* paragraph section */
+hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding-right:280px;
+}
+
+/*    both button section     */
+.buttons{
+
+    height: 700px;
+    padding: 0px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 100%;
+
+}
+
+/*  buttons - fish - div  coral 
+
+
+*/
+
+
+
+.div{
+     height: 200px;
+     min-width: 300px;
+     border-radius: 50%;
+     background-color:black;
+}
+
+.fish {
+    margin-bottom: 50px;
+    background-image: url(https://i.postimg.cc/Gm8p3JyL/sebastian-pena-lambarri-poly-hmhw-Js-unsplash.jpg);
+    background-size: 402px;
+    background-position: 5px 1px 10px 0px;
+    background-repeat: no-repeat;
+
+}
+
+.coral {
+    margin-bottom: 50px;
+    background-image: url(https://i.postimg.cc/pX1Tt1yc/benjamin-l-jones-Wo-A0-Ar-M-2-U-unsplash.jpg);
+    background-size: 402px;
+    background-position: 5px 1px 10px 0px;
+    background-repeat: no-repeat;
+
+}
+
+.btn-title {
+ 
+    color: white;
+    padding: 70px 350px 0px 8px;
+    text-shadow: #fc0 1px 0 10px;
+
+}
+
+
+
+.ancore {
+    text-decoration: none;
+}
+
+
+
+.first-logo-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 28px;
+}
+
+
+
+.icon {
+    max-height:50px;
+    padding:20px
+}
+
+
+
+
+
+footer {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+
+}
+
+footer span {
+    text-transform: capitalize;
+    font-family: 'Roboto',sans-serif ;
+    font-weight: 900;
+    color:  rgba(202, 202, 202, 0.40) ; 
+}
+
+
+    
+@media only screen and (max-width:700px ) {
+    
+   
+    hero{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        padding: 0;
+    }
+
+  
+    .first-logo-row {
+        display: inline;
+        text-align: center;
+    }
+    
+
+
+.icon {
+    max-height:50px;
+    padding:20px
+}
+
+
+
+
+}
+
+@media only screen and (max-width:500px ) {
+    
+   
+header{
+   
+    height: 370px; 
+    min-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+    .div{
+       height: 170px;
+       max-width:  150px;
+       border-radius: 55%;
+        background-color:black;
+   }
+
+ 
+   .first-logo-row {
+    display: inline;
+        text-align: center;
+}
+
+
+
+.icon {
+    max-height:50px;
+    padding:20px
+}
+
+
+.buttons{
+
+    height: 500px;
+    padding: 0px;
+    margin: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 100%;
+
+}
+
+footer span {
+
+    text-align: center;
+    
+}
+
+
+}
