@@ -20,5 +20,5 @@
   <img src="https://i.imgur.com/iz9Z0Mt.png" > 
   <img src="https://i.imgur.com/nfqZQC6.png"> 
 
-  <p> If you made it this far here a picture of what the reef tank looks like in person, Thanks for reading </p>
+  <p> If you made it this far here's a picture of what the reef tank looks like in person, Thanks for reading </p>
   <img src="https://i.imgur.com/KFL5EZ4.jpeg" > 
