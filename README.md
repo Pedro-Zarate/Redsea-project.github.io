@@ -2,7 +2,7 @@
 
 <h3> Welcome! </h3>
 <p> This is a one of my very first projects i build while learning HTML, CSS & Javascript. I build this website as a side project for my friends and family, when i have company over i get asked questions about my reef aquarium, 
-  So i thought it would be easy for them to scan a qr code and have it direct them to this <a alt="Click Me" targer="_blank" titile="Click Me" href="https://pedro-zarate.github.io/Redsea-project.github.io/">website</a> (Go ahead try it yourself)</p>
+  So i thought it would be easy for them to scan a qr code and have it direct them to this <a alt="Click Me" targer="_blank" titile="Click Me" href="https://pedro-zarate.github.io/Redsea-project.github.io/">website</a> (go ahead try it yourself)</p>
 
 <br/>
 
